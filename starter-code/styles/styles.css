@@ -1,0 +1,195 @@
+
+
+.btn {
+  border: 1px solid white;
+  color: white;
+}
+
+.carousel-item img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.carousel-control-prev {
+  height: 100px;
+  width: 50px;
+  background-color: red;
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  margin-top: 250px;
+  opacity: 80%;
+}
+
+
+.carousel-control-next {
+  height: 100px;
+  width: 50px;
+  background-color: red;
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  margin-top: 250px;
+  opacity: 80%;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 28px;
+  margin-left: 220px;
+}
+
+.nav-link {
+  font-size: 14px;
+}
+
+.martini {
+  width: 32px;
+  height: 32px;
+  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(216deg) brightness(103%) contrast(103%);
+}
+
+.martinicard {
+  border: none;
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+.continuecards{
+  border: none;
+  text-align: center;
+}
+
+.martiniheader{
+  border:none;
+  margin-bottom: 3px;
+}
+
+.starheader{
+  border: none;
+}
+
+.heartheader {
+  border: none;
+}
+
+
+#bannertext3{
+  font-size: 14px;
+}
+
+#bannertitle {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.titleofcontainer {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-bottom: 2px solid #EEEEEE;
+}
+
+#title-posts {
+  margin-top: 12px;
+  color: gray;
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+
+#title-article {
+  font-weight: bold;
+}
+
+.card {
+  border: none;
+}
+
+#firstcardtitle {
+    font-size: 14px;
+    text-align: center;
+}
+
+.card-text span {
+  color: red;
+}
+
+.textsecond {
+  font-size: 12px;
+}
+
+.textsecondBody {
+  text-align: left;
+  align-items: center;
+  font-size: 14px;
+  width: 214px;
+
+}
+
+.textsecondText {
+  font-weight: lighter;
+  font-size: 12px;
+}
+
+.secondTopimg {
+  width: 27vh;
+  height: 10vw;
+  margin-left: 19px;
+  object-fit: cover;
+  justify-content: center;
+}
+
+.secondCard {
+  width: 242px;
+  padding-right: 4px;
+}
+
+.textsecondBody2{
+  width:254px;
+  margin-left: -2px;
+}
+
+.footertext1 {
+  color: #EEEEEE;
+  font-size: 11px;
+  font-weight: lighter;
+  margin-top: 20px;
+  text-align: justify;
+  margin-right: 15px ;
+}
+
+.footertext2 {
+  color: #EEEEEE;
+  list-style: none;
+  font-size: 12px;
+  font-weight: lighter;
+  margin-top: 20px;
+  margin-right: 15px;
+}
+
+.footertext2bottom {
+  border-bottom: 1px solid #EEEEEE;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+}
+
+#bottomfooter{
+  border-top: red 2px solid;
+}
+
+.lastfooter {
+  background-color: black;
+  margin-top: -8px;
+  color: white;
+  font-size: 9px;
+  font-weight: lighter;
+}
+
+.lastfootertext {
+  margin-left: 155px;
+}
+
+#lastfootertext2 {
+  margin-top: -8px;
+}
