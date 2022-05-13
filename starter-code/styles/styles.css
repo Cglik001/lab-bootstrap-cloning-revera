@@ -193,3 +193,8 @@
 #lastfootertext2 {
   margin-top: -8px;
 }
+
+.footertext2bottom:hover {
+  color: white;
+  font-weight: 300;
+}
